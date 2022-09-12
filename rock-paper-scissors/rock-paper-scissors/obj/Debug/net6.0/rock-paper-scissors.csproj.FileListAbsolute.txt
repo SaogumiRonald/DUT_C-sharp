@@ -1,0 +1,15 @@
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\net6.0\rock-paper-scissors.exe
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\net6.0\rock-paper-scissors.deps.json
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\net6.0\rock-paper-scissors.runtimeconfig.json
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\net6.0\rock-paper-scissors.dll
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\net6.0\rock-paper-scissors.pdb
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.csproj.AssemblyReference.cache
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.AssemblyInfoInputs.cache
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.AssemblyInfo.cs
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.csproj.CoreCompileInputs.cache
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.dll
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\refint\rock-paper-scissors.dll
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.pdb
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\rock-paper-scissors.genruntimeconfig.cache
+R:\Programing\С#\.DUT\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\net6.0\ref\rock-paper-scissors.dll
