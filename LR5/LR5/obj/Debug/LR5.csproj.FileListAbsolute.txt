@@ -1,0 +1,7 @@
+R:\Programing\С#\.DUT\LR5\LR5\bin\Debug\LR5.exe
+R:\Programing\С#\.DUT\LR5\LR5\bin\Debug\LR5.pdb
+R:\Programing\С#\.DUT\LR5\LR5\obj\Debug\LR5.exe
+R:\Programing\С#\.DUT\LR5\LR5\obj\Debug\LR5.pdb
+R:\Programing\С#\.DUT\LR5\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+R:\Programing\С#\.DUT\LR5\LR5\obj\Debug\LR5.csproj.SuggestedBindingRedirects.cache
+R:\Programing\С#\.DUT\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
