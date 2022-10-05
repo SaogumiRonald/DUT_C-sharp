@@ -1,0 +1,15 @@
+R:\Programing\С#\.DUT\LR1\LR1\bin\Debug\net6.0\LR1.exe
+R:\Programing\С#\.DUT\LR1\LR1\bin\Debug\net6.0\LR1.deps.json
+R:\Programing\С#\.DUT\LR1\LR1\bin\Debug\net6.0\LR1.runtimeconfig.json
+R:\Programing\С#\.DUT\LR1\LR1\bin\Debug\net6.0\LR1.dll
+R:\Programing\С#\.DUT\LR1\LR1\bin\Debug\net6.0\LR1.pdb
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.dll
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\refint\LR1.dll
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.pdb
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+R:\Programing\С#\.DUT\LR1\LR1\obj\Debug\net6.0\ref\LR1.dll
