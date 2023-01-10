@@ -1,0 +1,8 @@
+R:\Programing\С#\.DUT\Exam\bin\Debug\Exam.exe.config
+R:\Programing\С#\.DUT\Exam\bin\Debug\Exam.exe
+R:\Programing\С#\.DUT\Exam\bin\Debug\Exam.pdb
+R:\Programing\С#\.DUT\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+R:\Programing\С#\.DUT\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+R:\Programing\С#\.DUT\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+R:\Programing\С#\.DUT\Exam\obj\Debug\Exam.exe
+R:\Programing\С#\.DUT\Exam\obj\Debug\Exam.pdb
